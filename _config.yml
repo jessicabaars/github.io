@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Conference for Person-Oriented Research 
 
 # Your name to show in the footer
-author: Some Person
+author: Jessica Baars
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+#title-img: 
 
 
 #####################################
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Conference for Person-Oriented Research.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
